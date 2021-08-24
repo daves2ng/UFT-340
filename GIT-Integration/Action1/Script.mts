@@ -12,6 +12,7 @@ Browser("Browser").Page("Techdavez DevOps Training").WebElement("Click or drag a
 Window("Google Chrome").Dialog("Open").WinObject("Items View").WinList("Items View").Activate "Desktop" @@ hightlight id_;_1925562112_;_script infofile_;_ZIP::ssf10.xml_;_
 Window("Google Chrome").Dialog("Open").WinObject("Items View").WinList("Items View").Select "uft" @@ hightlight id_;_1925577512_;_script infofile_;_ZIP::ssf11.xml_;_
 Window("Google Chrome").Dialog("Open").WinButton("Open").Click @@ hightlight id_;_329168_;_script infofile_;_ZIP::ssf12.xml_;_
+'close of windows object after selecting files
 Browser("Browser").Page("Techdavez DevOps Training").WebFile("WebFile").Set "uft.png" @@ script infofile_;_ZIP::ssf13.xml_;_
 Browser("Browser").Page("Techdavez DevOps Training").WebCheckBox("wpforms[fields][6][]").Set "ON" @@ script infofile_;_ZIP::ssf14.xml_;_
 Browser("Browser").Page("Techdavez DevOps Training").WebEdit("wpforms[fields][7]").Set "thanks you for this test" @@ script infofile_;_ZIP::ssf15.xml_;_
