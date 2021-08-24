@@ -8,6 +8,7 @@ Browser("Browser").Page("Techdavez DevOps Training").WebEdit("wpf-temp-wpforms[f
 Browser("Browser").Page("Techdavez DevOps Training").WebRadioGroup("wpforms[fields][3]").Select "Single Installment - $1000" @@ script infofile_;_ZIP::ssf8.xml_;_
 Browser("Browser").Page("Techdavez DevOps Training").WebRadioGroup("wpforms[fields][11]").Select "CashApp - $devopstraining" @@ script infofile_;_ZIP::ssf9.xml_;_
 Browser("Browser").Page("Techdavez DevOps Training").WebElement("Click or drag a file to").Click
+'new window for uploading content is added from here
 Window("Google Chrome").Dialog("Open").WinObject("Items View").WinList("Items View").Activate "Desktop" @@ hightlight id_;_1925562112_;_script infofile_;_ZIP::ssf10.xml_;_
 Window("Google Chrome").Dialog("Open").WinObject("Items View").WinList("Items View").Select "uft" @@ hightlight id_;_1925577512_;_script infofile_;_ZIP::ssf11.xml_;_
 Window("Google Chrome").Dialog("Open").WinButton("Open").Click @@ hightlight id_;_329168_;_script infofile_;_ZIP::ssf12.xml_;_
