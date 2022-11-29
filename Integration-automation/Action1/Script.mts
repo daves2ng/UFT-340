@@ -25,4 +25,4 @@ WpfWindow("Micro Focus MyFlight Sample").WpfButton("SELECT FLIGHT").Click @@ hig
 WpfWindow("Micro Focus MyFlight Sample").WpfEdit("passengerName").Set "Ayanfe" @@ hightlight id_;_1920425624_;_script infofile_;_ZIP::ssf37.xml_;_
 WpfWindow("Micro Focus MyFlight Sample").WpfButton("ORDER").Click @@ hightlight id_;_1976774376_;_script infofile_;_ZIP::ssf38.xml_;_
 WpfWindow("Micro Focus MyFlight Sample").WpfButton("NEW SEARCH").Click @@ hightlight id_;_1920426200_;_script infofile_;_ZIP::ssf39.xml_;_
-WpfWindow("Micro Focus MyFlight Sample").Close @@ hightlight id_;_66586_;_script infofile_;_ZIP::ssf40.xml_;_
+'WpfWindow("Micro Focus MyFlight Sample").Close @@ hightlight id_;_66586_;_script infofile_;_ZIP::ssf40.xml_;_
